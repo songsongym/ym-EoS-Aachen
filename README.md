@@ -117,3 +117,6 @@ Please cite our work if you make use of our code in your work:
 ```
 
 # ym-EoS-Aachen
+
+The Polyak codes were implemented in the Cifar10_runs.py
+
